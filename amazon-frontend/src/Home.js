@@ -26,16 +26,16 @@ function Home() {
                     price="89,00" 
                     image="https://m.media-amazon.com/images/I/51nlVZTd0mL._AC_SY200_.jpg" 
                     rating={5}/>
-                    <Product title="Cafeteira Expresso Prima Latte II, Vermelho, 110v, Oster" 
-                    price="1.029" 
-                    image="https://images-na.ssl-images-amazon.com/images/I/51tNJ6sZn-L._AC_SX184_.jpg" 
+                    <Product title="Pingente Avião Life by Vivara" 
+                    price="105" 
+                    image="https://images-na.ssl-images-amazon.com/images/I/31P5szb-+2L._AC_SX184_.jpg" 
                     rating={5}/>
                 </div>
                 <div className="home__row">
-                    <Product title="Cafeteira Expresso Prima Latte II, Vermelho, 110v, Oster" 
-                    price="1.029" 
-                    image="https://images-na.ssl-images-amazon.com/images/I/51tNJ6sZn-L._AC_SX184_.jpg" 
-                    rating={5}/>
+                    <Product title="Kindle 10a. geração com iluminação embutida" 
+                    price="331,55" 
+                    image="https://m.media-amazon.com/images/I/61X0ISBpD-L._AC_UL320_.jpg" 
+                    rating={0}/>
                 </div>
             </div>
         </div>
