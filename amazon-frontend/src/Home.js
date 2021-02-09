@@ -35,7 +35,7 @@ function Home() {
                     <Product title="Kindle 10a. geração com iluminação embutida" 
                     price="331,55" 
                     image="https://m.media-amazon.com/images/I/61X0ISBpD-L._AC_UL320_.jpg" 
-                    rating={0}/>
+                    rating={5}/>
                 </div>
             </div>
         </div>
